@@ -372,6 +372,7 @@ ensure("Payment Gateway v2.1 Compliance", () => {
 - [🎭 Polyglot Shopping Cart](./examples/polyglot-shopping-cart.spec.ts)
 - [🧪 Sanity Tests](./examples/sanity.spec.ts)
 - [🌐 API Testing Example](./examples/test-api.ts)
+- [🚀 API Showcase (All features)](./examples/showcase-api.spec.ts)
 
 ## 🔄 Jest Compatibility
 

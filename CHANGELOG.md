@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### What's Changed
 
 - :memo: **docs**: Added explicit "Running API Tests" section to README for clarity on execution steps.
+- :sparkles: **feat**: Created `examples/showcase-api.spec.ts` demonstrating all API dialect features (GET, POST, PUT, DELETE, Headers, Schema).
 
 ## [0.4.0]
 
