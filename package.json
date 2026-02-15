@@ -10,24 +10,15 @@
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "dist",
-    "src",
-    "packages",
-    "types",
-    "README.md",
-    "CHANGELOG.md",
-    "logo.png"
-  ],
   "keywords": [],
   "author": "suissAI",
   "license": "Cogfulness Ethical License (CEL) v1.0",
   "description": "",
   "bin": {
-    "one-proof-4-all": "./src/cli.ts",
-    "os4all": "./src/cli.ts",
-    "1spec": "./src/cli.ts",
-    "testall": "./src/cli.ts"
+    "one-proof-4-all": "./dist/cli.js",
+    "os4all": "./dist/cli.js",
+    "1spec": "./dist/cli.js",
+    "testall": "./dist/cli.js"
   },
   "dependencies": {},
   "devDependencies": {
